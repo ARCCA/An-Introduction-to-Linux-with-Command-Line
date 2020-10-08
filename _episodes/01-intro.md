@@ -121,7 +121,7 @@ she'll have to select and open a file 1520 times.
 If `goostats` takes 30 seconds to run each file, the whole process will take more than 12 hours of Nelle's attention.
 With the shell, Nelle can instead assign her computer this mundane task while she focuses her attention on writing her paper.
 
-The next few lessons will explore the ways Nelle can achieve this.
+This course and our next course on scripting will explore the ways Nelle can achieve this.
 More specifically,
 they explain how she can use a command shell to run the `goostats` program,
 using loops to automate the repetitive steps of entering file names,
