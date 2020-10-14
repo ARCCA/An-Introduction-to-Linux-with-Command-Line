@@ -2,6 +2,7 @@
 title: "File Permissions"
 teaching: 30
 exercises: 25
+
 questions:
 - "How does Linux know who can access files?"
 - "How can I see what permissions a file has?"
@@ -206,7 +207,7 @@ Good, we can see that the **r** flag has been removed from the other users secti
 Now lets continue by allowing all members of the `scw1148` group to write or edit the file.
 
 ~~~
-$ chmod g+r methane.pdb
+$ chmod g+w methane.pdb
 ~~~
 {: .language-bash}
 
