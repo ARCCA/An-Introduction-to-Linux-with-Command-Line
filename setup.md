@@ -45,7 +45,7 @@ In the lesson, you will find out how to access the data files in this folder.
 <article role="tabpanel" class="tab-pane active" id="jupyterhub">
 We're currently trialing providing the course via JupyterHub.
 
-You can access the service at: https://host234.sparrow.cf.ac.uk
+You can access the service at: [https://host234.sparrow.cf.ac.uk][sparrow]
 
 Once you've logged in, please click on the "Terminal" button on the page to access a terminal environment you can use to run the commands featured in this course. The course material and the data-shell.zip file have already been added to the envrionement as wel and are available in the desktop folder.
 
@@ -128,3 +128,4 @@ you can run it by opening a terminal and typing `bash`.
 [gnome-terminal]: https://help.gnome.org/users/gnome-terminal/stable/
 [kde-konsole]: https://konsole.kde.org/
 [xterm]: https://en.wikipedia.org/wiki/Xterm
+[sparrow]: https://host234.sparrow.cf.ac.uk
