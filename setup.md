@@ -51,6 +51,7 @@ Once you've logged in, please click on the "Terminal" button on the page to acce
 
 
 **Accounts**
+  
 Please use the following accounts to access the service. We'll provide the password during the sessions.
 
 * training1 through to training20
