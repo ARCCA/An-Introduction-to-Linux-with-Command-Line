@@ -46,7 +46,8 @@ In the lesson, you will find out how to access the data files in this folder.
 We're currently trialing providing the course via JupyterHub.
 
 You can access the service at: [https://host234.sparrow.cf.ac.uk][sparrow]
-
+You will be presented with a warning when accessing the service as we are currently using self-signed security certificates. Please do not be alarmed and click to accept the risk in your browser.
+  
 Once you've logged in, please click on the "Terminal" button on the page to access a terminal environment you can use to run the commands featured in this course. The course material and the data-shell.zip file have already been added to the envrionement as wel and are available in the desktop folder.
 
 
