@@ -44,6 +44,9 @@ In the lesson, you will find out how to access the data files in this folder.
 <div class="tab-content">
 <article role="tabpanel" class="tab-pane active" id="jupyterhub">
 We're currently trialing providing the course via JupyterHub.
+  
+You will need to connect to the Cardiff University VPN service in order to access the JupyterHub website. Please follow this link for more information:
+[https://intranet.cardiff.ac.uk/staff/supporting-your-work/it-support/wireless-and-remote-access/off-campus-access/virtual-private-network-vpn][vpn]
 
 You can access the service at: [https://host234.sparrow.cf.ac.uk][sparrow]
 You will be presented with a warning when accessing the service as we are currently using self-signed security certificates. Please do not be alarmed and click to accept the risk in your browser.
@@ -131,3 +134,4 @@ you can run it by opening a terminal and typing `bash`.
 [kde-konsole]: https://konsole.kde.org/
 [xterm]: https://en.wikipedia.org/wiki/Xterm
 [sparrow]: https://host234.sparrow.cf.ac.uk
+[vpn]: https://intranet.cardiff.ac.uk/staff/supporting-your-work/it-support/wireless-and-remote-access/off-campus-access/virtual-private-network-vpn
