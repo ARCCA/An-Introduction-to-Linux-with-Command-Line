@@ -48,7 +48,7 @@ We're currently trialing providing the course via JupyterHub.
 You will need to connect to the Cardiff University VPN service in order to access the JupyterHub website. Please follow this link for more information:  
 [https://intranet.cardiff.ac.uk/staff/supporting-your-work/it-support/wireless-and-remote-access/off-campus-access/virtual-private-network-vpn][vpn]
 
-You can access the service at: [https://host234.sparrow.cf.ac.uk][sparrow]  
+You can access the service at: [https://host095.sparrow.cf.ac.uk][sparrow]  
 You will be presented with a warning when accessing the service as we are currently using self-signed security certificates. Please do not be alarmed and click to accept the risk in your browser.
   
 Once you've logged in, please click on the "Terminal" button on the page to access a terminal environment you can use to run the commands featured in this course. The course material and the data-shell.zip file have already been added to the envrionement as wel and are available in the desktop folder.
