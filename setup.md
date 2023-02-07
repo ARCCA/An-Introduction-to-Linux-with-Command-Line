@@ -133,5 +133,5 @@ you can run it by opening a terminal and typing `bash`.
 [gnome-terminal]: https://help.gnome.org/users/gnome-terminal/stable/
 [kde-konsole]: https://konsole.kde.org/
 [xterm]: https://en.wikipedia.org/wiki/Xterm
-[sparrow]: https://host234.sparrow.cf.ac.uk
+[sparrow]: https://host095.sparrow.cf.ac.uk
 [vpn]: https://intranet.cardiff.ac.uk/staff/supporting-your-work/it-support/wireless-and-remote-access/off-campus-access/virtual-private-network-vpn
