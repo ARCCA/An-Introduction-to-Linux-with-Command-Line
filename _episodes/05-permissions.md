@@ -182,7 +182,7 @@ The Permission Types that are used are:
 
 The potential Assignment Operators are **+** (plus) and **-** (minus); these are used to tell the system whether to add or remove the specific permissions. 
 
-First, let's remove the ability for other users to read the `methane.pdb` file. We can do this by specifying the **a** permission group, the **r** permission type and the **-** (minus) operator. The command that we use to modify permissions is `chmod`.
+First, let's remove the ability for other users to read the `methane.pdb` file. We can do this by specifying the **o** permission group, the **r** permission type and the **-** (minus) operator. The command that we use to modify permissions is `chmod`.
 
 ~~~
 $ chmod o-r methane.pdb
