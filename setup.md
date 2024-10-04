@@ -35,33 +35,13 @@ In the lesson, you will find out how to access the data files in this folder.
 {::options parse_block_html="true" /}
 <div>
 <ul class="nav nav-tabs nav-justified" role="tablist">
-<li role="presentation" class="active"><a data-os="jupyterhub" href="#jupyterhub" aria-controls="JupyterHub" role="tab" data-toggle="tab">JupyterHub</a></li>
-<li role="presentation"><a data-os="windows" href="#windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
+<li role="presentation" class="active"><a data-os="windows" href="#windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
 <li role="presentation"><a data-os="macos" href="#macos" aria-controls="macOS" role="tab" data-toggle="tab">macOS</a></li>
 <li role="presentation"><a data-os="linux" href="#linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
 </ul>
 
 <div class="tab-content">
-<article role="tabpanel" class="tab-pane active" id="jupyterhub">
-We're currently trialing providing the course via JupyterHub.
-  
-You will need to connect to the Cardiff University VPN service in order to access the JupyterHub website. Please follow this link for more information:  
-[https://intranet.cardiff.ac.uk/staff/supporting-your-work/it-support/wireless-and-remote-access/off-campus-access/virtual-private-network-vpn][vpn]
-
-You can access the service at: [https://host095.sparrow.cf.ac.uk][sparrow]  
-You will be presented with a warning when accessing the service as we are currently using self-signed security certificates. Please do not be alarmed and click to accept the risk in your browser.
-  
-Once you've logged in, please click on the "Terminal" button on the page to access a terminal environment you can use to run the commands featured in this course. The course material and the data-shell.zip file have already been added to the envrionement as wel and are available in the desktop folder.
-
-
-**Accounts**
-  
-Please use the following accounts to access the service. We'll provide the password during the sessions.
-
-* training1 through to training20
-</article>
-
-<article role="tabpanel" class="tab-pane" id="windows">
+<article role="tabpanel" class="tab-pane active" id="windows">
 Computers with Windows operating systems do not automatically have a Unix Shell program
 installed.
 In this lesson, we encourage you to use an emulator included in Git for Windows,
