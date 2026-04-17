@@ -130,7 +130,7 @@ Each of these permission types is listed in the `_rwxrwxrwx` section of the outp
 
 
 ## Modifying permissions
-Let's say we want to modify who can access some of the files in the `molecules/` directory. We'll assume here that we're members of the `scw1148` on our system. On the Hawk supercomputer run by ARCCA, all users must be members of project groups to run jobs on the system. Each project has a group associated with it, so we can use this method to share files with other members of the same project.
+Let's say we want to modify who can access some of the files in the `molecules/` directory. We'll assume here that we're members of the `scw1148` on our system. On the Falcon supercomputer run by ARCCA, all users must be members of project groups to run jobs on the system. Each project has a group associated with it, so we can use this method to share files with other members of the same project.
 
 We'll start by changing the ownership of the methane.pdb file so everyone who is a member of the `scw1148` group is able to read this file.
 
